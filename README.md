@@ -9,4 +9,4 @@
 5. Used index function and if statements.
 6. Added 2 lists together.
 7. Used for and append.
- 
+8. Used for loop and append again. 
