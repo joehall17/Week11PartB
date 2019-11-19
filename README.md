@@ -7,4 +7,6 @@
 3. Used [:#] method to change letter in a string.
 4. Used code from DNA lab to find word count.
 5. Used index function and if statements.
-6. Added 2 lists together. 
+6. Added 2 lists together.
+7. Used for and append.
+ 
